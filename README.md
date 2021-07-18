@@ -7,7 +7,7 @@ Usage:
 Add the tap
 
 ```
-brew cross-language-cpp/brew https://github.com/cross-language-cpp/brew.git
+brew tap cross-language-cpp/brew https://github.com/cross-language-cpp/brew.git
 ```
 
 Install the djinni generator
