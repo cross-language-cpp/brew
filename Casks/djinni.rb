@@ -1,6 +1,6 @@
 cask "djinni" do
-  version "v1.4.0"
-  sha256 "1838504f29e9bd8d7246710cbf31d17abb44b2dbd7df91e08cc7566167fee068"
+  version "v1.4.1"
+  sha256 "a5b6d361f649cb8e943bf8f9524ccf4f02731f7d4c5a793c38cc04b56550e25c"
 
   url "https://github.com/cross-language-cpp/djinni-generator/releases/download/#{version}/djinni"
   name "djinni"
